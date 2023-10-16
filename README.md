@@ -1,3 +1,3 @@
-a simple project for recording audio
+ضبط صدا در اندروید
 آموزش این پروژه رو به صورت مقاله در وبسایت آکادمی نوری منتشر کردم: 
 https://nouri.academy/?p=8648
